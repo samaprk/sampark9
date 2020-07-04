@@ -1,0 +1,4 @@
+
+> mediasoup-sample-server@0.0.1 start /home/soumyadeepauddy1999/Desktop/samp/server
+> node index.js
+MediaSoup server is listening on port 8080!
